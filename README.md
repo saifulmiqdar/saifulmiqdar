@@ -2,12 +2,12 @@
    <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
    <br>
    <div align="center">
-      <img src="https://i.imgur.com/jx17oHT.gif">
+      <img src="https://media1.giphy.com/media/3ohzdMfilFANKK0dqw/giphy.gif?cid=ecf05e47w6ebuxwsbsui01zuxg38cmqbngt5xm3157g6iajj&rid=giphy.gif&ct=g">
    </div>
    <br>
    <div>
       <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-      <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+      <img src="https://media2.giphy.com/media/13cswZEvNJM7ZK/giphy.gif?cid=790b761104bef86938a8058105201a097f0436e0d94397c7&rid=giphy.gif&ct=g" align="right">
       <li>
          <b>Name:</b> Saiful Miqdar
       </li>
@@ -43,7 +43,7 @@
       </p>
       <br>
       <h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-      <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+      <img src="https://media0.giphy.com/media/JXibbAa7ysN9K/giphy.gif?cid=ecf05e47zbtvf4lz1s260mrjtp62qnxfr7si0r1u53j8i4bq&rid=giphy.gif&ct=g" align="right" width="373.5px" height="208.5px">
       <br>
       <p align="center">Hewe awe some of my <br>
          most used s-s-sociaw things >~< xoxox
